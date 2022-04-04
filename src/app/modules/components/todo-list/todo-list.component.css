@@ -1,0 +1,17 @@
+.center-item {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+.checked {
+  text-decoration: line-through;
+}
